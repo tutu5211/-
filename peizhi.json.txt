@@ -58,21 +58,6 @@ ZOOMOO,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 神州新聞台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 
 
-🐼4k专区,#genre#
-CCTV1,http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?servicetype=1
-CCTV3,http://223.105.252.59/PLTV/4/224/3221228499/index.m3u8?servicetype=1
-CCTV5,http://223.105.252.61/PLTV/4/224/3221228502/index.m3u8?servicetype=1
-CCTV8,http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8?servicetype=1
-CCTV4K,http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8?servicetype=1
-CCTV16,http://223.105.252.59/PLTV/4/224/3221228314/index.m3u8?servicetype=1
-欢笑剧场,http://111.29.9.34:6610/000000001000/1/1.m3u8?stbId=1&livemode=1&IASHttpSessionId=OTT760920241110011719006907&channel-id=bestzb&Contentid=5000000007000010001
-峨眉电影4K,http://60.255.240.247:8090/live/emdy4k_8000.m3u8
-欢笑剧场_4K,http://60.255.240.247:8090/live/hxjc-4k_8000.m3u8
-
-北京纪实科教,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8$官方8K
-lovenature4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-
-
 🐼中央电视,#genre#
 
 
